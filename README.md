@@ -5,6 +5,7 @@ A smart web-based system that recommends delicious recipes based on nutritional 
 ---
 
 ## 📸 Preview
+! [App Screenshot] ("C:\Users\rounak pathekar\OneDrive\Pictures\Screenshots\Screenshot (11).png")
 
 
 
