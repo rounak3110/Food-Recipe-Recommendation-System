@@ -1,11 +1,13 @@
-# 🥗 Food Recipe Recommendation System
+<img width="1878" height="937" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/cc489980-f9f9-46c9-b37e-6fce1b9a14ae" /># 🥗 Food Recipe Recommendation System
 
 A smart web-based system that recommends delicious recipes based on nutritional input and ingredients using machine learning. Built with 💻 Python, Flask, and HTML/CSS in a soft pastel theme.
 
 ---
 
 ## 📸 Preview
-! [App Screenshot] ("C:\Users\rounak pathekar\OneDrive\Pictures\Screenshots\Screenshot (11).png")
+
+![App Screenshot](<img width="1878" height="937" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/3212a968-6562-4b66-9bfa-9d5aacb70480" />
+)
 
 
 
